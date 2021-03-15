@@ -10,6 +10,14 @@ const INITIAL_STATE = {
             lessons: [
                 {id: 1, title: 'Primeira Aula'}
             ]
+        },
+        {
+            id: 2,
+            title: 'React JS',
+            lessons: [
+                {id: 1, title: 'Primeira Aula'},
+                {id:2 , title: 'Segunda Aula'}
+            ]
         }
     ]
 }
